@@ -24,7 +24,7 @@
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-> Tools and Technologies
+> Lenguages
 
 <table>
   <tr>
@@ -36,27 +36,11 @@
         <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="48" height="48" alt="CSS" />
       <br>CSS
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
-      <br>Tailwind CSS
-    </td>
   </tr>
   <tr>
     <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="js" width="65" height="65" />
       <br>Javascript
-    </td>
-    <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="48" height="48" alt="python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="48" height="48" alt="Express.js" />
-      <br>Express.js
     </td>
     <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="48" height="48" alt="Node.js" />
@@ -164,6 +148,16 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=suraweera-AGSS&count_private=true&show_icons=trueline_height=21&theme=github_dark">
       <br/><br/>
       <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suraweera-AGSS&theme=github_dark&hide_border=true"/>
+    </td>
+  </tr>
+</table>
+
+>DataBases
+<table>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="48" height="48" alt="HTML" />
+      <br>HTML
     </td>
   </tr>
 </table>

@@ -1,3 +1,5 @@
+<!-- Banner Inicial -->
+<img src="">
 
 <h1 align=center>Tecnologías conocidas👩‍💻</h1>
 <!--tech stack icons-->

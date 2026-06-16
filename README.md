@@ -1,7 +1,8 @@
+<h1 align=center>Hola, soy Fernanda Valencia <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <!-- Banner Inicial -->
 <img src="Banner de LinkedIn Tecnología Fondo Negro y Figuras Geométricas con Colores Gradientes.png">
 
-<h1 align=center>Tecnologías conocidas👩‍💻</h1>
+<h2 align=center>Tecnologías conocidas👩‍💻</h2>
 <!--tech stack icons-->
 <div align=center>
    <h3>Frontend</h3>

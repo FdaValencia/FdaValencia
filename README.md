@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey...😊+;Welcome+to+my+Github+Profile;My+name+is+Sithum;I'm+a+4th+year+undergraduate;I'm+a+Full+Stack+Developer;&font=Fira%50Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey...😊+;Welcome+to+my+Github+Profile;My+name+is+Fernanda Valencia;I'm+a+Web+development+student;&font=Fira%50Code&center=true&width=380&height=50">
 </p>
 
 <p align="center">
@@ -150,7 +150,7 @@
 </table>
 
 <br>
-
+<!--
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Statistics </b>
 
 <table>
@@ -188,7 +188,7 @@
 
 Follow & Support : [suraweera-AGSS](https://github.com/suraweera-AGSS)## Hi there 👋
 
-<!--
+
 **FdaValencia/FdaValencia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

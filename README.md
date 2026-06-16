@@ -3,7 +3,7 @@
 <img src="Banner de LinkedIn Tecnología Fondo Negro y Figuras Geométricas con Colores Gradientes.png">
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Sobre mi ....***
-<br>
+<br><br>
 💻 Estudiante de Desarrollo de Aplicaciones Web (DAW)
 
 🔐 Apasionado por la ciberseguridad y el desarrollo backend

@@ -9,21 +9,17 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></img> About Me
 
-- 🌱 I’m currently learning **Python | Java | ML | SpringBoot | Angular | React**
+-💻 Web Application Development (DAW) Student
 
-- 📝 I regularly write articles on https://medium.com/@sithumsuraweera
+-🔐 Passionate about Cybersecurity and currently learning more about it every day
 
-- 💬 Ask me about **Web Development | OOP | Data Structures & Algorithms**
+-⚙️ Backend Development enthusiast
 
-- 📫 How to reach me **https://linktr.ee/sithumsuraweera**
+-🌱 Currently learning PHP, Java and JavaScript
 
-- 👨‍💻 Co-Founder of **CodeScorpion - Tech Community** https://www.youtube.com/@CodeScorpions
+-🚀 Building projects, solving problems and growing as a developer
 
-- ⚡ Current status - https://www.zapfolio.in/sithum-chalk
-
-- 😁 Chill thing - Music is a big part of my life. I love both singing and listening to it 
-
-- 🎧 Listen to my covers - https://www.youtube.com/@ThripleSMusic
+-💬 Interested in Software Development, Cybersecurity and Backend Technologies
 
 <br>
 

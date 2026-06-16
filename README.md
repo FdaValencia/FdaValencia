@@ -1,5 +1,5 @@
 <!-- Banner Inicial -->
-<img src="">
+<img src="Banner de LinkedIn Tecnología Fondo Negro y Figuras Geométricas con Colores Gradientes.png">
 
 <h1 align=center>Tecnologías conocidas👩‍💻</h1>
 <!--tech stack icons-->

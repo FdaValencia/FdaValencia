@@ -2,6 +2,19 @@
 <!-- Banner Inicial -->
 <img src="Banner de LinkedIn Tecnología Fondo Negro y Figuras Geométricas con Colores Gradientes.png">
 
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Sobre mi ....***
+💻 Estudiante de Desarrollo de Aplicaciones Web (DAW)
+
+🔐 Apasionado por la ciberseguridad y el desarrollo backend
+
+🌱 Actualmente aprendiendo PHP, Java, JavaScript y Ciberseguridad
+
+🚀 Desarrollando proyectos y mejorando mis habilidades cada día
+
+💬 Interesado en el desarrollo de software, la seguridad informática y las tecnologías web
+
+⚡ Siempre aprendiendo y explorando nuevas tecnologías
+
 <h2 align=center>Tecnologías conocidas👩‍💻</h2>
 <!--tech stack icons-->
 <div align=center>

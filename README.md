@@ -1,38 +1,25 @@
 
-
-<h2><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> Habilidades</h2>
+<h1 align=center>Tecnologías conocidas👨🏻‍💻</h1>
+<!--tech stack icons-->
 <div align=center>
-<p>Lenguajes</p>
-<span> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white">
-</span>  
-
-<h4>Bases de Datos</h4>
-<span>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
-</span>  
-
-<h4>Tecnologías</h4>
-<span>
-  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-</span>  
-
-<h4>Redes y Contacto</h4>
-<p>
-<a href="https://github.com/BlackDoubleB" target="_blank"><img alt="github"  src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="http://linkedin.com/in/reyna-blacido-aparicio-a03558290" target="_blank"><img  alt="linkedin"  src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:blancablacido@gmail.com" target="_blank"><img  alt="gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-</div>
+   <h3>Frontend</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,astro,tailwind&theme=light" />
+  </a>
+  <h3>Backend</h3>
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=idea,java,spring,postman,postgres,hibernate,docker&theme=light" />
+  </a>
+   <h3>AI Engineering</h3>
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,supabase,bots&theme=light" />
+  </a>
+    <h3>Tools</h3>
+     <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,linkedin&theme=light" />
+  </a>
+  </div>
+<br>
 
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px"> Estadísticas de GitHub:</h2>  
 

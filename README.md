@@ -1,4 +1,5 @@
 <h1 align=center>Hola, soy Fernanda Valencia <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+
 <!-- Banner Inicial -->
 <img src="Banner de LinkedIn Tecnología Fondo Negro y Figuras Geométricas con Colores Gradientes.png">
 
@@ -39,21 +40,17 @@
   </a>
   </div>
 <br>
-
+<!--
 <div align=center>
   <h1> Mis estadisticas </h1> 
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" align=center> 
 <br>
 </div> 
-
+--
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=BlackDoubleB&show_icons=true&theme=tokyonight&locale=es&custom_title=Estadísticas%20de%20Reyna" height="250"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlackDoubleB&theme=material-palenight" height="250"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackDoubleB&layout=compact&theme=tokyonight&hide_border=false" height="250" />
-
 </div>
+-->
 
-------
-
-Credits: [BlackDoubleB](https://github.com/BlackDoubleB)<br/>
-Last Edited on: 15/09/2025

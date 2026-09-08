@@ -24,18 +24,21 @@
   </a>
   <h3>Backend</h3>
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,php,docker&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,php&theme=light" />
+  </a>
+   <h3>DataBases</h3>
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql&theme=light" />
   </a>
    <h3>IDEs & Editors</h3>
-   <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=eclipse,netbeans,vscode&theme=light" />
-   </a>
-   <!--
-   <h3>AI Engineering</h3>
-    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,supabase,bots&theme=light" />
+   <a href="https://skillicons.dev"> 
+     <img src="https://skillicons.dev/icons?i=vscode,eclipse&theme=light" />
   </a>
-   -->
-    <h3>Tools</h3>
+   <h3>DevOps & Systems</h3>
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,linux&theme=light" />
+  </a>
+   <h3>Tools & Version Control</h3>
      <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,linkedin&theme=light" />
   </a>

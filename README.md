@@ -9,8 +9,6 @@
 
 🔐 Apasionado por la ciberseguridad y el desarrollo backend
 
-🌱 Actualmente aprendiendo PHP, Java, JavaScript y Ciberseguridad
-
 🚀 Desarrollando proyectos y mejorando mis habilidades cada día
 
 💬 Interesado en el desarrollo de software, la seguridad informática y las tecnologías web
@@ -26,8 +24,11 @@
   </a>
   <h3>Backend</h3>
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,java,php,docker&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,php,docker&theme=light" />
   </a>
+   <h3>IDEs & Editors</h3>
+   <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=eclipse,netbeans,vscode&theme=light" />
+   </a>
    <!--
    <h3>AI Engineering</h3>
     <a href="https://skillicons.dev">

@@ -20,11 +20,11 @@
 <div align=center>
    <h3>Frontend</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript&theme=light" />
+    <img src="https://skillicons.dev/icons?i=javascript,html,css&theme=light" />
   </a>
   <h3>Backend</h3>
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,php&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,spring&theme=light" />
   </a>
    <h3>DataBases</h3>
    <a href="https://skillicons.dev">
@@ -40,7 +40,7 @@
   </a>
    <h3>Tools & Version Control</h3>
      <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linkedin&theme=light" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,linkedin&theme=light" />
   </a>
   </div>
 <br>

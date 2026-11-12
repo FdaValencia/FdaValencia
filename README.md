@@ -32,7 +32,7 @@
   </a>
    <h3>IDEs & Editors</h3>
    <a href="https://skillicons.dev"> 
-     <img src="https://skillicons.dev/icons?i=vscode,eclipse&theme=light" />
+     <img src="https://skillicons.dev/icons?i=vscode,eclipse,intellij&theme=light" />
   </a>
    <h3>DevOps & Systems</h3>
    <a href="https://skillicons.dev">
